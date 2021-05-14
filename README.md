@@ -14,5 +14,5 @@
 -Google Fontes.
 
 ### Imagens:
-<img align="middle" alt="Hero" width="800px" src="#" />
+<img align="middle" alt="Hero" width="800px" src="https://github.com/Digo-Castro/Agency/blob/Agency/Agency_Page_Recorder_Accelerated.gif" />
 
